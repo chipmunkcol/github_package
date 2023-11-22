@@ -1,0 +1,19 @@
+{
+  "name": "@chipmunkcol/github_package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chipmunkcol/github_package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chipmunkcol/github_package/issues"
+  },
+  "homepage": "https://github.com/chipmunkcol/github_package#readme"
+}
