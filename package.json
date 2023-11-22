@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chipmunkcol/github_package/issues"
   },
-  "homepage": "https://github.com/chipmunkcol/github_package#readme"
+  "homepage": "https://github.com/chipmunkcol/github_package#readme",
+  "publishConfig": {
+    "@chipmunkcol:registry": "https://npm.pkg.github.com"
+  }
 }
